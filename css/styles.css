@@ -122,3 +122,24 @@ footer {
 .dummy {
     height: 100px;
 }
+
+
+/* Contact */
+.contacts-icon {
+    font-size: 64px;
+}
+
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.info {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
